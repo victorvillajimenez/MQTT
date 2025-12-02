@@ -4,3 +4,6 @@
 [submodule "IoTMqttPLC"]
 	path = IoTMqttPLC
 	url = https://github.com/victorvillajimenez/IoTMqttPLC.git
+[submodule "IoTMqttPubSubServer"]
+	path = IoTMqttPubSubServer
+	url = https://github.com/victorvillajimenez/iot-mqtt-pubsub-server.git
