@@ -1,0 +1,3 @@
+[submodule "IoTMqttPoC"]
+	path = IoTMqttPoC
+	url = https://github.com/victorvillajimenez/iot-mqtt-poc.git
