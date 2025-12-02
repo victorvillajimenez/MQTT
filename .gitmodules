@@ -7,3 +7,6 @@
 [submodule "IoTMqttPubSubServer"]
 	path = IoTMqttPubSubServer
 	url = https://github.com/victorvillajimenez/iot-mqtt-pubsub-server.git
+[submodule "IoTMqttPubSubClient"]
+	path = IoTMqttPubSubClient
+	url = https://github.com/victorvillajimenez/iot-mqtt-pubsub-client.git
